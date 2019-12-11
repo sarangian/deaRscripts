@@ -22,6 +22,7 @@ suppressMessages(library(colorspace))
 suppressMessages(library(optparse))
 suppressMessages(library(scales))
 suppressMessages(library(readr))
+suppressMessages(library(DelayedArray))
 
 # options list with associated default value.
 option_list <- list( 
