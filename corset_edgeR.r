@@ -24,14 +24,8 @@ suppressMessages(library(colorspace))
 suppressMessages(library(optparse))
 suppressMessages(library(scales))
 suppressMessages(library(readr))
-#library(optparse) 
-#library(readr)  
-#library("pheatmap")
-#library("RColorBrewer")  
-#library(regionReport)
-#library(DESeq2)
-#library(dplyr)
-#library(DEFormats)
+suppressMessages(library(DelayedArray))
+
                                # to run the script in command lines
 
 # options list with associated default value.
